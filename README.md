@@ -1,1 +1,1 @@
-# R6
+# I did this in Replit and CPP Shell and most functions are work. I didnt try "return to main menu" function as the R0 is not work(maybe my problem idk). Now I onyl need to add your name in it then R6 is finished.
